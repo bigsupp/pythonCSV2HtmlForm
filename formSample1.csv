@@ -1,0 +1,9 @@
+ID,Tag,Type,Placeholder,Default Value,classNames
+input-title,input,text,Title goes here,,form-control
+input-user-age,input,text,Age 18+,,form-control
+input-user-birth-year,input,text,Your birth year,1980,form-control
+select-user-office-size,select,,,100=0-100;200=101-200;300=201-300;999=more than 300,form-control
+textarea-remarks,textarea,,,,form-control 
+textarea-description,textarea,,,Hello!,form-control 
+btn-user-clear,button,button,,Clear form,form-control btn btn-outline-warning
+btn-user-submit,button,button,,Submit Information,form-control btn btn-primary
